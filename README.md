@@ -4,7 +4,7 @@ Estudande de Análise e Desenvolvimento de Sistemas.<br/>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//5511956654601?text=Ola%20Vitor)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-anderson-38aa9a26b/)
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=devitor&show_icons=true&theme=dracula)
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAnderson&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso
 
