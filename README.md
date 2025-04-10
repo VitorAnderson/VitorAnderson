@@ -3,7 +3,6 @@
 🎯 **Desenvolvedor Back-End | Foco em Java & Spring Boot**  
 ☁️ **Estudando para Certificação AWS Cloud Practitioner**  
 📚 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🚀 Apaixonado por criar **APIs REST, soluções escaláveis e integrações eficientes**  
 
 ---
 
@@ -11,7 +10,6 @@
 💡 Atualmente aprimorando conhecimentos em **Java, Spring Boot e Banco de Dados**  
 🛠️ Explorando tecnologias como **Spring Security, JPA/Hibernate e Microservices**  
 ☁️ Estudando **AWS Cloud Computing** (EC2, S3, RDS, Lambda, IAM, CloudFormation)  
-📊 Buscando evoluir na **arquitetura de software e boas práticas de código**  
 
 ---
 
@@ -41,9 +39,10 @@
 ---
 
 ## 📩 Contato:
-📧 **Email:** vitor.andersonf@gmail.com | vitor.anderson@hotmail.com  
-📱 [WhatsApp](https://wa.me//5511956654601?text=Ola%20Vitor)  
-👔 [LinkedIn](https://www.linkedin.com/in/vitor-bartolomeu-38aa9a26b/)  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor.andersonf@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//5511956654601?text=Ola%20Vitor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-anderson-38aa9a26b/)
 
 ---
 
