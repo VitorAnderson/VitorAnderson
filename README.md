@@ -28,7 +28,7 @@
 ---
 
 ## 📌 Meus Projetos Recentes:
-🔹 **[API de Produtos](https://github.com/SEU-USUARIO/api-produtos)** - CRUD completo com Spring Boot  
+🔹 **[API de Produtos](https://github.com/VitorAnderson/api-produtos)** - CRUD completo com Spring Boot  
 🔹 *Mais projetos em breve...*  
 
 ---
