@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou Vitor Anderson 
 
 🎯 **Desenvolvedor Back-End | Foco em Java & Spring Boot**  
+☁️ **Estudando para Certificação AWS Cloud Practitioner**  
 📚 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🚀 Apaixonado por criar **APIs REST, soluções escaláveis e integrações eficientes**  
 
@@ -9,6 +10,7 @@
 ## 🔥 Sobre Mim
 💡 Atualmente aprimorando conhecimentos em **Java, Spring Boot e Banco de Dados**  
 🛠️ Explorando tecnologias como **Spring Security, JPA/Hibernate e Microservices**  
+☁️ Estudando **AWS Cloud Computing** (EC2, S3, RDS, Lambda, IAM, CloudFormation)  
 📊 Buscando evoluir na **arquitetura de software e boas práticas de código**  
 
 ---
@@ -22,6 +24,7 @@
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 
 ---
