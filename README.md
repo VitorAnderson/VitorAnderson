@@ -1,26 +1,47 @@
-### Olá! Eu sou o Vitor Anderson. 👍<br/>
-Estudande de Análise e Desenvolvimento de Sistemas.<br/>
+# 👋 Olá! Eu sou Vitor Anderson 
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//5511956654601?text=Ola%20Vitor)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-anderson-38aa9a26b/)
+🎯 **Desenvolvedor Back-End | Foco em Java & Spring Boot**  
+📚 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🚀 Apaixonado por criar **APIs REST, soluções escaláveis e integrações eficientes**  
 
+---
+
+## 🔥 Sobre Mim
+💡 Atualmente aprimorando conhecimentos em **Java, Spring Boot e Banco de Dados**  
+🛠️ Explorando tecnologias como **Spring Security, JPA/Hibernate e Microservices**  
+📊 Buscando evoluir na **arquitetura de software e boas práticas de código**  
+
+---
+
+## 🛠 Tecnologias e Ferramentas:
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</div>
+
+---
+
+## 📌 Meus Projetos Recentes:
+🔹 **[API de Produtos](https://github.com/SEU-USUARIO/api-produtos)** - CRUD completo com Spring Boot  
+🔹 *Mais projetos em breve...*  
+
+---
+
+## 📊 Estatísticas do GitHub:
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAnderson&show_icons=true&theme=dracula)
 
-## Tecnologias que uso
+---
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt=" html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt=" CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt=" Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt=" Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img align="center" alt=" Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img align="center" alt=" SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img align="center" alt=" JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</div><br/>
+## 📩 Contato:
+📧 **Email:** vitor.andersonf@gmail.com | vitor.anderson@hotmail.com  
+📱 [WhatsApp](https://wa.me//5511956654601?text=Ola%20Vitor)  
+👔 [LinkedIn](https://www.linkedin.com/in/vitor-anderson-38aa9a26b/)  
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas motivado e impulsionado por resultados. Tenho como objetivo ampliar meus conhecimentos e fornecer resultados quantitativos no meu ambiente de trabalho.
+---
 
-##Email de Contato
-
-Vitor.andersonf@gmail.com <br/>
-vitor.anderson@hotmail.com
+✨ *"Transformando código em soluções eficientes!"* 🚀  
