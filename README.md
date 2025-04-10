@@ -43,7 +43,7 @@
 ## 📩 Contato:
 📧 **Email:** vitor.andersonf@gmail.com | vitor.anderson@hotmail.com  
 📱 [WhatsApp](https://wa.me//5511956654601?text=Ola%20Vitor)  
-👔 [LinkedIn](https://www.linkedin.com/in/vitor-anderson-38aa9a26b/)  
+👔 [LinkedIn](https://www.linkedin.com/in/vitor-bartolomeu-38aa9a26b/)  
 
 ---
 
