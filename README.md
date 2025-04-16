@@ -28,6 +28,8 @@
 ---
 
 ## 📌 Meus Projetos Recentes:
+
+🔹 **[Sistema Financeiro](https://github.com/VitorAnderson/Sistema-Financeiro-API-REST.git)** - API REST com Spring Boot  
 🔹 **[API de Produtos](https://github.com/VitorAnderson/api-produtos)** - CRUD completo com Spring Boot  
 🔹 *Mais projetos em breve...*  
 
